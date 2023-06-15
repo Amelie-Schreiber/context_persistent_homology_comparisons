@@ -38,7 +38,7 @@ Recall, the Wasserstein distances were computed for each pair of persistence dia
 
 ## Applications to Video
 
-It seems as though computing persistence diagrams for context vectors associated to image patches for a text-to-video transformer model would allow us to improve the temporal coherence of the video produced by the model, by including the Wasserstein distance between persistence diagrams computed for consetutive frames. This is a very exciting potential application, still being explored. For a very similar idea applied to the token probability distributions, please see [this repo](https://github.com/Amelie-Schreiber/emergent_topology_of_ideas_in_vision). 
+It seems as though computing persistence diagrams for context vectors associated to image patches for a text-to-video transformer model would allow us to improve the temporal coherence of the video produced by the model, by including the Wasserstein distance between persistence diagrams computed for consetutive frames. This is a very exciting potential application, still being explored. For a very similar idea applied to the token probability distributions (computed by applying softmax to individual attention matrices), please see [this repo](https://github.com/Amelie-Schreiber/emergent_topology_of_ideas_in_vision). 
 
 
 ## Applications to Language
