@@ -11,3 +11,5 @@ In these notebooks we:
 6. Compare the distance matrix obtained in this way for each head of the first model to the distance matrix obtained in this way for each head of the second model. 
 7. Compute the percentage of entries below the diagonal that are negative, effectively computing what percentage of the time the second model has higher Wasserstein distance compared to the first model. 
 8. Compute statistics on the array of probabilities to determine the minimum, maximum, median, mean, variance, standard deviation, and quantiles to determine just how well one model preserves persistent homology compared to the other.
+
+We note that `dicta-il/alephbertgimmel-base` outperforms all Hebrew and multilingual models at preserving persistent homology. 
