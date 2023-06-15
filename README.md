@@ -49,7 +49,7 @@ We expect the simplex trees of persistent homology to mimic the behavior of the 
 
 ### Anomaly Detection
 
-We might also take Fréchet means of persistence diagrams of "normal text" and compare this to new potentially "anomalous text" to detect anomalies. This is partially done in [this notebook](https://github.com/Amelie-Schreiber/multilingual_persistent_homology/blob/main/frechet_mean_ph_diagrams_v2.ipynb). 
+We might also take Fréchet means of persistence diagrams of "normal text" and compare this to new potentially "anomalous text" to detect anomalies. This is done in [this notebook](https://github.com/Amelie-Schreiber/anomaly_detection_persistent_homology/tree/main). 
 
 ### Topic Modeling
 
